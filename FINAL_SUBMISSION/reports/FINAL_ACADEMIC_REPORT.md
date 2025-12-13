@@ -2,10 +2,10 @@
 
 ## Complex Networks Course Project — Final Report
 
-**Authors:** The Triple Outliers  
+**Authors:** Bochra Chemam, Yvonne Heiser, Ronah Nakonde  
 **Date:** December 11, 2025  
 **Final Score:** 0.053167 (Test Average Precision)  
-**Leaderboard Position:** 5th Place  
+**Leaderboard Position:** 4th Place  
 
 ---
 
@@ -394,7 +394,7 @@ features = 40                   # 37 original + 3 graph centrality
 This project demonstrates that **classical semi-supervised learning methods can outperform modern deep learning** on sparse, graph-structured biological data. Our Label Propagation approach achieved:
 
 - **+33.8% improvement** over baseline (0.039507 → 0.052945)
-- **5th place** on the competition leaderboard
+- **4th Place** on the competition leaderboard
 - **Robust, interpretable predictions** with minimal hyperparameters
 
 The key insight is that **the network structure itself encodes disease similarity**—genes that interact often share disease associations. By leveraging this homophily assumption through Label Propagation, we achieved strong performance without the complexity and overfitting risks of neural networks.
@@ -495,4 +495,4 @@ Complex_network_FP/
 
 **Report Generated:** December 11, 2025  
 **Final Score:** 0.052945  
-**Leaderboard:** 5th Place  
+**Leaderboard:** 4th Place  

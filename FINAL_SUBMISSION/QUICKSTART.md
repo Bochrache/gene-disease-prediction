@@ -8,7 +8,7 @@ This guide helps you navigate the submission folder and understand the results i
 
 ## ⚡ TL;DR (30 seconds)
 
-- **Final Score:** 0.053167 (5th place)
+- **Final Score:** 0.053167 (4th Place)
 - **Method:** Label Propagation (α=0.80, 10-fold CV)
 - **Key Insight:** Simple graph-based semi-supervised learning beats deep learning
 - **Main Files:** 
@@ -93,7 +93,7 @@ python winning_strategy_alpha_sweep.py
 
 | Metric | Value | Rank |
 |--------|-------|------|
-| **Final Test Score** | 0.053167 | 5th place |
+| **Final Test Score** | 0.053167 | 4th Place |
 | **Validation AP** | 0.0878 | - |
 | **Improvement vs Baseline** | +34.6% | - |
 | **Best Alpha (α)** | 0.80 | - |
@@ -239,7 +239,7 @@ python generate_visualizations.py
 **Highlights:**
 - Methodological rigor (systematic alpha sweep, k-fold ensemble)
 - Clear presentation (visualizations, step-by-step reports)
-- Strong results (5th place, +34.6% improvement)
+- Strong results (4th Place, +34.6% improvement)
 - Critical analysis (why deep learning fails, ablation studies)
 
 ---
@@ -261,7 +261,7 @@ python generate_visualizations.py
 
 You have a **complete, reproducible, publication-quality** submission package containing:
 
-- ✅ **Working code** that achieves 0.053167 score (5th place)
+- ✅ **Working code** that achieves 0.053167 score (4th Place)
 - ✅ **Comprehensive documentation** explaining every step
 - ✅ **9 visualizations** showing methodology and results
 - ✅ **Academic validation** from peer-reviewed research
@@ -276,5 +276,5 @@ You have a **complete, reproducible, publication-quality** submission package co
 ---
 
 **Created:** December 12, 2025  
-**Final Score:** 0.053167 (5th Place, Public Leaderboard)  
+**Final Score:** 0.053167 (4th Place, Public Leaderboard)  
 **Status:** Ready for submission 🚀

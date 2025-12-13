@@ -4,7 +4,7 @@
 ## 🏆 Competition Results
 
 - **Final Score:** 0.053167 (Micro Average Precision)
-- **Public Leaderboard Ranking:** 5th Place
+- **Public Leaderboard Ranking:** 4th Place
 - **Improvement over Baseline:** +34.6%
 - **Submission Date:** December 11, 2025
 
@@ -300,11 +300,19 @@ This research confirms that:
 
 ---
 
-## 📄 License
+## � Team
+
+- **Bochra Chemam** - Solution development, methodology, analysis
+- **Yvonne Heiser** - Model development, experimentation  
+- **Ronah Nakonde** - Data analysis, validation
+
+---
+
+## �📄 License
 
 This work is submitted for academic purposes as part of the Complex Networks course final project.
 
 ---
 
-**Last Updated:** December 12, 2025  
-**Competition Status:** Completed - Awaiting private leaderboard results (Dec 17, 2025)
+**Last Updated:** December 13, 2025  
+**Competition Status:** Completed - 4th Place on Public Leaderboard

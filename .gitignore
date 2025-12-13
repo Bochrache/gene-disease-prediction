@@ -49,8 +49,11 @@ Thumbs.db
 *.log
 logs/
 
-# Results (keep only FINAL_SUBMISSION)
-results/
-outputs/
-!FINAL_SUBMISSION/
+# Results (exclude root results/ and outputs/, but include FINAL_SUBMISSION/)
+/results/
+/outputs/
 figures/
+
+# Allow FINAL_SUBMISSION folder and all its contents
+!FINAL_SUBMISSION/
+!FINAL_SUBMISSION/**

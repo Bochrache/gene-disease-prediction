@@ -84,7 +84,7 @@ FINAL_SUBMISSION/                           [Total: 10.9 MB, 20 files]
 | `submission_alpha0.80_10fold_FIXED.csv` | 8.8 MB | 3,365 genes × 305 diseases | 0.053167 |
 | `RESULTS_SUMMARY.md` | 8.0 KB | Performance breakdown | - |
 
-**Competition Result:** 5th Place (Public Leaderboard)
+**Competition Result:** 4th Place (Public Leaderboard)
 
 ### 3️⃣ REPORTS (2 Documents)
 
@@ -182,7 +182,7 @@ FINAL_SUBMISSION/                           [Total: 10.9 MB, 20 files]
 
 ### Competition Performance
 - **Score:** 0.053167 (Micro Average Precision)
-- **Rank:** 5th Place (Public Leaderboard)
+- **Rank:** 4th Place (Public Leaderboard)
 - **Improvement:** +34.6% vs baseline (0.039507)
 - **Consistency:** Std=0.0004 across 10 folds
 
@@ -233,7 +233,7 @@ FINAL_SUBMISSION/                           [Total: 10.9 MB, 20 files]
 1. ✅ **Use visualizations** - 9 professional plots ready
 2. ✅ **Reference reports** - Technical + academic analysis
 3. ✅ **Demo code** - Live execution in ~15 minutes
-4. ✅ **Highlight results** - 5th place, +34.6% improvement
+4. ✅ **Highlight results** - 4th Place, +34.6% improvement
 
 ---
 
@@ -308,7 +308,7 @@ ls FINAL_SUBMISSION/reports/*.md | wc -l
 
 **YOU NOW HAVE:**
 
-✅ **Complete working solution** (5th place, 0.053167 score)  
+✅ **Complete working solution** (4th Place, 0.053167 score)  
 ✅ **3 production Python scripts** (694 lines)  
 ✅ **2 comprehensive reports** (11,300 words)  
 ✅ **9 publication-quality visualizations** (300 DPI)  

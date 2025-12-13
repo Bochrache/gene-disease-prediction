@@ -3,7 +3,7 @@
 ## Final Competition Score
 **Score:** 0.053167  
 **Metric:** Micro Average Precision  
-**Ranking:** 5th Place (Public Leaderboard)  
+**Ranking:** 4th Place (Public Leaderboard)  
 **Date:** December 11, 2025
 
 ---
@@ -231,4 +231,4 @@ Micro AP = sum(TP) / sum(TP + FP) across all disease classes
 
 **Generated:** December 12, 2025  
 **Author:** [Your Name]  
-**Final Score:** 0.053167 (5th Place)
+**Final Score:** 0.053167 (4th Place)

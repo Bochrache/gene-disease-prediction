@@ -2,10 +2,10 @@
 
 ## Semi-Supervised Learning on Protein-Protein Interaction Networks
 
-**Team:** The Triple Outliers  
+**Team:** Bochra Chemam, Yvonne Heiser, Ronah Nakonde  
 **Course:** Complex Networks  
 **Final Score:** 0.053167 (Micro Average Precision)  
-**Leaderboard Position:** 5th Place  
+**Leaderboard Position:** 4th Place  
 **Date:** December 11, 2025
 
 ---
@@ -536,7 +536,7 @@ with open(submission_file, 'w') as f:
 │  STEP 7: 10-Fold CV Ensemble                                                │
 │    └── Average predictions across folds for robustness                     │
 │                                                                             │
-│  RESULT: 0.053167 Test AP (+34.6% vs baseline) → 5th Place                 │
+│  RESULT: 0.053167 Test AP (+34.6% vs baseline) → 4th Place                 │
 │                                                                             │
 └─────────────────────────────────────────────────────────────────────────────┘
 ```
@@ -578,7 +578,7 @@ Complex_network_FP/
 
 **Report Generated:** December 11, 2025  
 **Final Score:** 0.052945  
-**Leaderboard Position:** 5th Place
+**Leaderboard Position:** 4th Place
 
 ---
 

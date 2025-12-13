@@ -4,9 +4,21 @@
 
 [![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/downloads/)**Competition**: Predicting gene associations to diseases using Graph Neural Networks  
 
-[![Kaggle 5th Place](https://img.shields.io/badge/Kaggle-5th%20Place-orange.svg)](https://www.kaggle.com)**Deadline**: Kaggle submissions by December 12, 2025 | Report by December 19, 2025
+[![Kaggle 4th Place](https://img.shields.io/badge/Kaggle-4th%20Place-orange.svg)](https://www.kaggle.com)**Deadline**: Kaggle submissions by December 12, 2025 | Report by December 19, 2025
 
-[![Score](https://img.shields.io/badge/score-0.053167-brightgreen.svg)](https://www.kaggle.com)
+[![Scor## 📖 Citation
+
+If you use this work, please cite:
+
+```bibtex
+@misc{gene_disease_prediction_2025,
+  author = {Chemam, Bochra and Heiser, Yvonne and Nakonde, Ronah},
+  title = {Gene-Disease Prediction via Label Propagation on PPI Networks},
+  year = {2025},
+  publisher = {GitHub},
+  url = {https://github.com/Bochrache/gene-disease-prediction}
+}
+```lds.io/badge/score-0.053167-brightgreen.svg)](https://www.kaggle.com)
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)---
 
@@ -30,7 +42,7 @@
 
 - **Final Score:** 0.053167 (Micro Average Precision)# Install dependencies (if not already installed)
 
-- **Ranking:** 5th Place / ~150 teamspip install -r requirements.txt
+- **Ranking:** 4th Place / ~150 teamspip install -r requirements.txt
 
 - **Improvement:** +34.6% over baseline```
 
@@ -450,13 +462,11 @@ Your report must include:
 
 ## 👥 Team
 
-### Tutorials
+- **Bochra Chemam** - Solution development, methodology, analysis
+- **Yvonne Heiser** - Model development, experimentation
+- **Ronah Nakonde** - Data analysis, validation
 
-- **Bochrache** - Solution development, methodology, analysis- [PyG Node Classification](https://pytorch-geometric.readthedocs.io/en/latest/notes/introduction.html)
-
-- [Handling Imbalanced Data](https://arxiv.org/abs/1708.02002)
-
-**Contact:** [Your Email]
+**Contact:** [Team Email]
 
 ---
 
@@ -552,7 +562,7 @@ If you use this work, please cite:---
 
 **Last Updated:** December 13, 2025  ### Issue 4: Overfitting
 
-**Status:** 5th Place (Public Leaderboard) - Awaiting Private Results**Solution**: Increase dropout, add weight decay, use early stopping
+**Status:** 4th Place (Public Leaderboard) - Awaiting Private Results**Solution**: Increase dropout, add weight decay, use early stopping
 
 
 ```python
@@ -563,27 +573,6 @@ CONFIG['PATIENCE'] = 15
 
 ---
 
-## 🎯 Success Criteria
-
-### Minimum (Pass)
-- [ ] Submit at least one Kaggle prediction
-- [ ] Complete report with all sections
-- [ ] Working code that reproduces results
-- [ ] 10-minute presentation
-
-### Good (High Grade)
-- [ ] Multiple model comparisons
-- [ ] Clear experimental insights
-- [ ] Well-documented code
-- [ ] Top 50% on leaderboard
-
-### Excellent (Top Grade)
-- [ ] Advanced techniques (ensemble, feature engineering)
-- [ ] Deep analysis and insights
-- [ ] Professional presentation
-- [ ] Top 25% on leaderboard
-
----
 
 ## 📞 Questions?
 
