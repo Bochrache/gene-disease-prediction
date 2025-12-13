@@ -6,11 +6,20 @@
 - **Final Score:** 0.053167 (Micro Average Precision)
 - **Public Leaderboard Ranking:** 4th Place
 - **Improvement over Baseline:** +34.6%
-- **Submission Date:** December 11, 2025
+- **Submission Date:** December 11, 202
+## 👥 Team
+
+- Bochra Chemam
+- Yvonne Heiser
+- Ronah Nakonde
 
 ---
 
-## 📁 Folder Structure
+## � License
+
+This work is submitted for academic purposes as part of the Complex Networks course final project.
+
+---Folder Structure
 
 ```
 FINAL_SUBMISSION/

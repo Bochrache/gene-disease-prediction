@@ -462,40 +462,23 @@ Your report must include:
 
 ## 👥 Team
 
-- **Bochra Chemam** - Solution development, methodology, analysis
-- **Yvonne Heiser** - Model development, experimentation
-- **Ronah Nakonde** - Data analysis, validation
-
-**Contact:** [Team Email]
+- Bochra Chemam
+- Yvonne Heiser
+- Ronah Nakonde
 
 ---
-
----
-
-## 🤝 Team Workflow
 
 ## 📄 License
 
-### Daily Standup (Recommended)
+This project is licensed under the MIT License.
 
-This project is licensed under the MIT License.- What did you work on yesterday?
+---
 
-- What will you work on today?
+## 🙏 Acknowledgments
 
----- Any blockers?
-
-
-
-## 🙏 Acknowledgments### Task Division
-
-- **Person 1**: EDA + Feature Engineering
-
-- **Kaggle Community** for organizing the competition- **Person 2**: Model Implementation + Training
-
-- **Course Instructors** for guidance and feedback- **Person 3**: Hyperparameter Tuning + Ensemble
-
-- **Barabási Lab** for foundational research (DIAMOnD algorithm)- **Everyone**: Report writing (divide sections)
-
+- **Kaggle Community** for organizing the competition
+- **Course Instructors** for guidance and feedback
+- **Barabási Lab** for foundational research (DIAMOnD algorithm)
 - **Open-Source Tools:** PyTorch, scikit-learn, NetworkX, matplotlib
 
 ### Communication
@@ -594,7 +577,9 @@ Remember:
 **Kaggle Deadline**: December 12, 2025  
 **Final Submission**: December 19, 2025
 
+
 ---
 
-Generated: December 4, 2025  
-Authors: [Your Team Name]
+**Last Updated:** December 13, 2025  
+**Team:** Bochra Chemam, Yvonne Heiser, Ronah Nakonde
+
