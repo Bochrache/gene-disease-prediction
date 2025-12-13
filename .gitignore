@@ -1,0 +1,56 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+*.egg-info/
+dist/
+build/
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# Jupyter Notebook (keep only clean final notebooks if any)
+.ipynb_checkpoints/
+*.ipynb_checkpoints
+gene_disease_prediction.ipynb
+gene_disease_prediction_updated.ipynb
+gene_disease_prediction_winning.ipynb
+gene_disease_final_solution.ipynb
+
+# PyTorch Models (too large)
+models/*.pt
+checkpoints/
+
+# Dataset files (download from Kaggle instead)
+dataset/*.pt
+dataset/*.pth
+
+# Submissions (except final ones in FINAL_SUBMISSION)
+outputs/submission*.csv
+predictions/
+!FINAL_SUBMISSION/results/*.csv
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Results (keep only FINAL_SUBMISSION)
+results/
+outputs/
+!FINAL_SUBMISSION/
+figures/
