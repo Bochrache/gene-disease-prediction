@@ -1,15 +1,15 @@
-# Gene-Disease Prediction (Reproducible Code Only)
 
-## How to Run
+# Gene-Disease Prediction
 
-1. Install dependencies:
-  pip install -r requirements.txt
+To run:
 
-2. Run the main script:
-  python championship_disease_specific.py
+1. Install requirements:
+   pip install -r requirements.txt
 
-- All required data is in the `dataset/` folder.
-- This will generate the results in the current directory or as specified in the script.
+2. Run:
+   python championship_disease_specific.py
+
+That's it! The code will use the data in the `dataset/` folder and output the results.
 
 
 - **Final Score:** 0.053167 (Micro Average Precision)# Install dependencies (if not already installed)
