@@ -1,43 +1,15 @@
-# Gene-Disease Prediction via Label Propagation 🧬# 🧬 Gene-Disease Association Prediction Competition
+# Gene-Disease Prediction (Reproducible Code Only)
 
+## How to Run
 
+1. Install dependencies:
+  pip install -r requirements.txt
 
-[![Python 3.13](https://img.shields.io/badge/python-3.13-blue.svg)](https://www.python.org/downloads/)**Competition**: Predicting gene associations to diseases using Graph Neural Networks  
+2. Run the main script:
+  python championship_disease_specific.py
 
-[![Kaggle 4th Place](https://img.shields.io/badge/Kaggle-4th%20Place-orange.svg)](https://www.kaggle.com)**Deadline**: Kaggle submissions by December 12, 2025 | Report by December 19, 2025
-
-[![Scor## 📖 Citation
-
-If you use this work, please cite:
-
-```bibtex
-@misc{gene_disease_prediction_2025,
-  author = {Chemam, Bochra and Heiser, Yvonne and Nakonde, Ronah},
-  title = {Gene-Disease Prediction via Label Propagation on PPI Networks},
-  year = {2025},
-  publisher = {GitHub},
-  url = {https://github.com/Bochrache/gene-disease-prediction}
-}
-```lds.io/badge/score-0.053167-brightgreen.svg)](https://www.kaggle.com)
-
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)---
-
-
-
-> **Semi-supervised gene-disease association prediction using label propagation on protein-protein interaction networks**## 🚀 Quick Start
-
-
-
-**Complex Networks Course - Final Project | December 2025**### 1. Setup Environment
-
-
-
----```bash
-
-# Activate virtual environment
-
-## 🏆 Competition Resultssource venv/bin/activate
-
+- All required data is in the `dataset/` folder.
+- This will generate the results in the current directory or as specified in the script.
 
 
 - **Final Score:** 0.053167 (Micro Average Precision)# Install dependencies (if not already installed)
