@@ -358,19 +358,8 @@ Your report must include:
 
 
 
----## 🎤 Presentation Tips
 
 
-
-## 🎓 Course Context**Time**: 10 minutes + 5 minutes Q&A
-
-
-
-- **Course:** Complex Networks - Final Project**Structure**:
-
-- **Grade:** A- (92/100)1. Problem & Dataset (1-2 min)
-
-- **Learning Objectives:** Semi-supervised learning, imbalanced classification, network analysis, academic validation2. Approach & Models (3-4 min)
 
 3. Results & Insights (3-4 min)
 
